@@ -34,7 +34,7 @@ This project demonstrates how to control a WS2812B addressable RGB LED strip usi
 2.  **Upload:** Flash the firmware to the STM32F407VET6 using an ST-Link.
 3.  **Controls:**
     * **Next Effect Button:** Press to cycle through the available lighting modes.
-    * **Reset Button:** Press to immediately return to the default starting effect.
+    * **Brightness Button:** Press to cycle through different brightness levels.
     * **Audio Mode:** When in audio-reactive mode, place a sound source near the MAX9814 module to see the LEDs dance to the music.
 
 ## ⚠️ Important Notes
