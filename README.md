@@ -44,7 +44,7 @@ This project demonstrates how to control a WS2812B addressable RGB LED strip usi
 
 ---
 *Project by:*
-* *Nguyen Trong Bao Duy/Thorlion*
-* *Nguyen Dang Phuong Duy/DuyNDP*
-* *Vu Dai Duong/VuDaiDuong_325*
-* *Phan Thanh Duy*
+* **Nguyen Trong Bao Duy** - [Thorlion](https://github.com/Thorlion)
+* **Nguyen Dang Phuong Duy** - [DuyNDP](https://github.com/DuyNDP)
+* **Vu Dai Duong** - [VuDaiDuong_325](https://github.com/VuDaiDuong-325)
+*  **Phan Thanh Duy**
